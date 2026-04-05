@@ -1,0 +1,18 @@
+Bien hecho.
+
+Descubriste una nueva rama.
+
+Ahora:
+
+1. Asegúrate de tener todos los cambios:
+   git pull origin dev-instrucciones
+
+2. Prepárate para independizarte.
+
+Tu siguiente misión:
+
+- Crear tu propio repositorio en GitHub
+- Conectar este proyecto a ese nuevo repositorio
+
+Pistas:
+Una vez creado el repositorio en GitHub, puedes clonar y modificar todo utilizando tu clave de git !
