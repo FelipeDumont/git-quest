@@ -1,2 +1,6 @@
 # git-quest
-The quest for learning git
+Bienvenido a Git Quest.
+
+Tu misión comienza en:
+
+Nivel1/Instrucciones.txt

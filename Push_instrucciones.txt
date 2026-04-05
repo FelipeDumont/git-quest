@@ -1,0 +1,10 @@
+Intentaste subir cambios… pero algo salió mal.
+
+Pista 1:
+Revisa los mensajes de error
+
+Pista 2:
+¿Existen otras ramas?
+
+Comando útil:
+git branch -a

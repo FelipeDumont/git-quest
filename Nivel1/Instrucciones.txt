@@ -1,0 +1,11 @@
+Nivel 1: Primeros pasos
+
+1. Crea un archivo llamado jugador.txt
+2. Escribe tu nombre y comida favorita
+3. Guarda los cambios usando git
+
+Para ello tienes que ocupar
+git pull			-> Descarga los últimos cambios del repositorio
+git add .			-> Agregar tus archivos para ser subidos al repositorio
+git commit -m "Upload message"  -> Agrega un comentario a la actualización a realizar
+git push origin <branch-name>-  -> Sube los cambios a la rama especificada
