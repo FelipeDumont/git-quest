@@ -7,4 +7,6 @@ Pista 2:
 ¿Existen otras ramas?
 
 Comando útil:
-git branch -a
+git branch -a			-> Miremos que brances existen en nuestro proyecto
+git switch <branch_name>	-> Cambienmos al Branch de nombre <branch_name
+git pull --rebase		-> Actualizamos nuestras carpetas ignorado nuestros cambios (pueden perder sus archivos !!!)
